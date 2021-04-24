@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array Code/Array Code.iml" filepath="$PROJECT_DIR$/Array Code/Array Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window Code/Sliding Window Code.iml" filepath="$PROJECT_DIR$/Sliding Window Code/Sliding Window Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack &amp; Queue Code/Stack &amp; Queue Code.iml" filepath="$PROJECT_DIR$/Stack &amp; Queue Code/Stack &amp; Queue Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Code/String Code.iml" filepath="$PROJECT_DIR$/String Code/String Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding test practice.iml" filepath="$PROJECT_DIR$/coding test practice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+public class StringCode2 {
+}
